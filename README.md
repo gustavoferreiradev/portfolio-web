@@ -71,6 +71,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[SASS](https://sass-lang.com/)** 
 
 
+#### **Utilitários**
+
+-   Fontes:  **[Montserrat](https://fonts.google.com/specimen/Montserrat)**
+
 ---
 
 ## 🦸 Autor
