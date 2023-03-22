@@ -70,6 +70,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[SASS](https://sass-lang.com/)** 
 
+-   **[Azure Web App](https://azure.microsoft.com/products/app-service/web)** 
 
 #### **Utilitários**
 
